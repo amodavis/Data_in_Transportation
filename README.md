@@ -4,5 +4,5 @@
 A study of the State of Data in Ground Transportation of Freight 
 
 ## Files
-- Transportation_Data_Conference_Poster.pptx
-- Transportation_Data_Conference_Extended_Extract.docx
+- Transportation_Data_Conference_Poster.pdf
+- Transportation_Data_Conference_Extended_Extract.pdf
